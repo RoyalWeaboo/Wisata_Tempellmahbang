@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94889960952",
+    "project_id": "wisata-tempellmahbang-61b58",
+    "storage_bucket": "wisata-tempellmahbang-61b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94889960952:android:1fb61e6cb48d04b51b620d",
+        "android_client_info": {
+          "package_name": "com.malikazizali.wisatatempellmahbang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94889960952-h03p925077s19qrbjgkaipeb0qanh5v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malikazizali.wisatatempellmahbang",
+            "certificate_hash": "525f6de3af4cfc8d016c4978d69143e5c553988d"
+          }
+        },
+        {
+          "client_id": "94889960952-2lq5h45p38qbbchbak2gh0bgbmhf9dbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFd9gHmgDjAwFcVryiqqE3wHTRWxk3qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94889960952-2lq5h45p38qbbchbak2gh0bgbmhf9dbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

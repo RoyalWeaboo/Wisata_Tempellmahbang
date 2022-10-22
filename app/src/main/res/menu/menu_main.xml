@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/telepon"
+        android:title="Telepon"
+        android:icon="@drawable/telepon"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/sms"
+        android:title="SMS"
+        android:icon="@drawable/sms"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/loc"
+        android:title="Lokasi Kami"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/updateLogin"
+        android:title="Update Password"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/history"
+        android:title="History"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/signOut"
+        android:title="Sign Out"
+        app:showAsAction="never"/>
+
+</menu>
